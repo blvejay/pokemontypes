@@ -279,6 +279,7 @@ dragon = {
 
 print("Welcome to the Pokemon Type Matchups Checker!")
 print("This checker is based off of Generation 1 type matchups (Pokémon Red/Green/Blue/Yellow).")
+print("Enter the type of the attacking move and the type of the Pokémon being attacked!")
 
 attacking = str(input("Attacking type: "))
 defending = str(input("Defending type: "))
