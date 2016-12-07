@@ -1,7 +1,7 @@
 """
 1. Have a dictionary for each type with key as attacking type and value as effectiveness (int/float)
-2. Lower both so they're all the same
-3. Check if both are actual types
+2. Lower both so they're all the same, they match my code
+3. Check if both are actual types and return error message if they're not
 4. Use attack input as key and defense input as dictionary
 5. Return string depending on what multiplier is (if 2 return "It's super effective!")
 """
